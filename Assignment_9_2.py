@@ -4,8 +4,8 @@ def ChkGreater(No1,No2):
         print(No2,"is greater")
 
 def main():
-    Value1 = 30
-    Value2 = 40
+    Value1 = 10
+    Value2 = 20
 
     ChkGreater(Value1,Value2)
 
