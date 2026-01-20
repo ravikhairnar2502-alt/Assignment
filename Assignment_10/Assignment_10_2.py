@@ -1,3 +1,5 @@
+# 2. Write a program which accepts one number and prints sum of first N natural numbers.
+
 def main():
 
     Value1 = int(input("Enter number : "))
@@ -18,4 +20,5 @@ if __name__ == "__main__":
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment>python Assignment_10_2.py
 # Enter number : 5
+
 # 15
