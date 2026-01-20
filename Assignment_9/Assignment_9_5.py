@@ -1,3 +1,5 @@
+# 5. Write a program which accepts one number and checks whether it is divisible by 3 and 5
+
 def main():
 
     Value1 = int(input("Enter number : "))
