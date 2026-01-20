@@ -2,7 +2,7 @@
 
 def main():
 
-    No1 = int(input("Enter Radius : "))
+    No1 = int(input("Enter Number : "))
     
     print(bin(No1)[2:])
 
@@ -14,5 +14,5 @@ if __name__ == "__main__":
 # Output :
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_13>python Assignment_13_4.py
-# Enter Radius : 10
+# Enter Number : 10
 # 1010
