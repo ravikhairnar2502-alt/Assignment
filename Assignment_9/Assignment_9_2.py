@@ -1,3 +1,4 @@
+# 2. Write a program which contains one function ChkGreater() that accepts two numbers and prints the greater number.
 
 def ChkGreater(No1,No2):
     if No1 < No2:
