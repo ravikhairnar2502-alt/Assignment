@@ -24,3 +24,11 @@ if __name__ == "__main__":
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_12>python Assignment_12_1.py
 # Enter Charachter : x
 # Consonant
+
+# C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_12>python Assignment_12_1.py
+# Enter Charachter : A
+# Vowel
+
+# C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_12>python Assignment_12_1.py
+# Enter Charachter : B
+# Consonant
