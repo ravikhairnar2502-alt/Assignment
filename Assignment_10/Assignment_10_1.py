@@ -1,3 +1,5 @@
+# 1. Write a program which accepts one number and prints multiplication table of that number.
+
 def main():
 
     Value1 = int(input("Enter number : "))
@@ -17,4 +19,5 @@ if __name__ == "__main__":
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment>python Assignment_10_1.py
 # Enter number : 4
+
 # 4 8 12 16 20 24 28 32 36 40
