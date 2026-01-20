@@ -9,7 +9,7 @@ Condition Example:
 
 def main():
 
-    No1 = int(input("Enter Radius : "))
+    No1 = int(input("Enter Number : "))
     
     if No1 >= 75:
         print("Distinction")
@@ -28,17 +28,17 @@ if __name__ == "__main__":
 # Output :
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_13>python Assignment_13_5.py
-# Enter Radius : 85
+# Enter Number : 85
 # Distinction
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_13>python Assignment_13_5.py
-# Enter Radius : 60
+# Enter Number : 60
 # First Class
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_13>python Assignment_13_5.py
-# Enter Radius : 54
+# Enter Number : 54
 # Second Class
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_13>python Assignment_13_5.py
-# Enter Radius : 42
+# Enter Number : 42
 # Fail
