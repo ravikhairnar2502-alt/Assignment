@@ -2,7 +2,7 @@
 
 def main():
 
-    Value1 = int(input("Enter Charachter : "))
+    Value1 = int(input("Enter Number : "))
     i = 1
 
     while i <= Value1:
@@ -18,5 +18,6 @@ if __name__ == "__main__":
 # Output :
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_12>python Assignment_12_2.py
-# Enter Charachter : 12
+# Enter Number : 12
+
 # 1 2 3 4 6 12
