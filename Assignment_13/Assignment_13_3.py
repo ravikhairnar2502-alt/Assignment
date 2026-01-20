@@ -2,7 +2,7 @@
 
 def main():
 
-    No1 = int(input("Enter Radius : "))
+    No1 = int(input("Enter Number : "))
     sum = 0
 
     for i in range(1,No1):
@@ -22,9 +22,9 @@ if __name__ == "__main__":
 # Output :
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_13>python Assignment_13_3.py
-# Enter Radius : 6
+# Enter Number : 6
 # Perfect Number
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_13>python Assignment_13_3.py
-# Enter Radius : 7
+# Enter Number : 7
 # Non Perfect Number
