@@ -1,3 +1,5 @@
+# 5. Write a program which accepts one number and checks whether it is palindrome or not.
+
 def main():
 
     Value1 = input("Enter number : ")
@@ -21,4 +23,5 @@ if __name__ == "__main__":
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_11>python Assignment_11_5.py
 # Enter number : 123
+
 # Not Palindrome
