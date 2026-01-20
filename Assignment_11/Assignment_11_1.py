@@ -1,3 +1,5 @@
+# 1. Write a program which accepts one number and checks whether it is prime or not.
+
 def main():
 
     Value1 = int(input("Enter number : "))
@@ -22,4 +24,5 @@ if __name__ == "__main__":
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment\Assignment_11>python Assignment_11_1.py
 # Enter number : 6
+
 # Not Prime Number
