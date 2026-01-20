@@ -1,3 +1,5 @@
+# 3. Write a program which accepts one number and prints square of that number.
+
 def main():
     Value1 = int(input("Enter number : "))
 
