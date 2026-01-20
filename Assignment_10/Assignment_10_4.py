@@ -1,3 +1,5 @@
+# 4. Write a program which accepts one number and prints all even numbers till that number.
+
 def main():
 
     Value1 = int(input("Enter number : "))
@@ -16,4 +18,5 @@ if __name__ == "__main__":
 
 # C:\Users\EveryThink\Documents\Marvellous\Assignment>python Assignment_10_4.py
 # Enter number : 10
+
 # 2 4 6 8 10
